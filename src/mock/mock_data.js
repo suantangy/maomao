@@ -266,8 +266,8 @@ export const mockData = {
     },
     {
       "id": "community",
-      "name": "社区论坛",
-      "icon": "👥",
+      "name": "工具",
+      "icon": "🔧",
       "order": 5,
       "sites": [
         {
@@ -278,18 +278,18 @@ export const mockData = {
           "icon": "/sitelogo/linux.do.ico"
         },
         {
+          "id": "stackoverflow",
+          "name": "临时邮箱",
+          "url": "https://temporary-email.org",
+          "description": "",
+          "icon": "https://temporary-email.org"
+        },
+        {
           "id": "nodeseek",
           "name": "NodeSeek",
           "url": "https://www.nodeseek.com",
           "description": "极客技术社区",
           "icon": "/sitelogo/www.nodeseek.com.ico"
-        },
-        {
-          "id": "stackoverflow",
-          "name": "Stack Overflow",
-          "url": "https://stackoverflow.com",
-          "description": "程序员问答社区",
-          "icon": "/sitelogo/stackoverflow.com.ico"
         },
         {
           "id": "v2ex",
