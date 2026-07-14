@@ -151,10 +151,53 @@ export const mockData = {
       ]
     },
     {
+      "id": "community",
+      "name": "工具",
+      "icon": "🔧",
+      "order": 3,
+      "sites": [
+        {
+          "id": "nodeseek",
+          "name": "免费域名",
+          "url": "https://www.dnshe.com",
+          "description": "",
+          "icon": "https://tu.apao.kdns.fr/1784051795824-7e45b847-862d-4017-b7c2-add5748d7a03.jpg"
+        },
+        {
+          "id": "linuxdo",
+          "name": "玩偶监控",
+          "url": "https://pan-site-monitor.douer.me",
+          "description": "",
+          "icon": "https://tu.apao.kdns.fr/1784053505712-15aff263-b481-4526-a263-2d73f4330b6a.jpg"
+        },
+        {
+          "id": "stackoverflow",
+          "name": "临时邮箱",
+          "url": "https://temporary-email.org",
+          "description": "",
+          "icon": "https://temporary-email.org/uploads/logo.png"
+        },
+        {
+          "id": "52pojie",
+          "name": "代理加速",
+          "url": "https://proxy.dhsv.eu.org/",
+          "description": "",
+          "icon": "https://tu.apao.kdns.fr/img/png/1784056739140-9ddeec62-b6f1-4bd9-970e-2f716cd5fa87.png"
+        },
+        {
+          "id": "v2ex",
+          "name": "简易图床",
+          "url": "https://tu.apao.kdns.fr",
+          "description": "",
+          "icon": "https://tu.apao.kdns.fr/img/jpg/1784057128506-7d8645b9-69a8-4804-b1a7-27f905b10db4.jpg"
+        }
+      ]
+    },
+    {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "cloudflare",
@@ -211,7 +254,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "github",
@@ -265,89 +308,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "community",
-      "name": "工具",
-      "icon": "🔧",
-      "order": 5,
-      "sites": [
-        {
-          "id": "nodeseek",
-          "name": "免费域名",
-          "url": "https://www.dnshe.com",
-          "description": "",
-          "icon": "https://tu.apao.kdns.fr/1784051795824-7e45b847-862d-4017-b7c2-add5748d7a03.jpg"
-        },
-        {
-          "id": "linuxdo",
-          "name": "玩偶监控",
-          "url": "https://pan-site-monitor.douer.me",
-          "description": "",
-          "icon": "https://tu.apao.kdns.fr/1784053505712-15aff263-b481-4526-a263-2d73f4330b6a.jpg"
-        },
-        {
-          "id": "stackoverflow",
-          "name": "临时邮箱",
-          "url": "https://temporary-email.org",
-          "description": "",
-          "icon": "https://temporary-email.org/uploads/logo.png"
-        },
-        {
-          "id": "52pojie",
-          "name": "代理加速",
-          "url": "https://proxy.dhsv.eu.org/",
-          "description": "",
-          "icon": "https://tu.apao.kdns.fr/img/png/1784056739140-9ddeec62-b6f1-4bd9-970e-2f716cd5fa87.png"
-        },
-        {
-          "id": "v2ex",
-          "name": "简易图床",
-          "url": "https://tu.apao.kdns.fr",
-          "description": "",
-          "icon": "https://tu.apao.kdns.fr/img/jpg/1784057128506-7d8645b9-69a8-4804-b1a7-27f905b10db4.jpg"
-        }
-      ]
-    },
-    {
-      "id": "design",
-      "name": "设计工具",
-      "icon": "🎨",
-      "order": 6,
-      "sites": [
-        {
-          "id": "figma",
-          "name": "Figma",
-          "url": "https://figma.com",
-          "description": "UI设计工具",
-          "icon": "/sitelogo/figma.com.ico"
-        },
-        {
-          "id": "sketch",
-          "name": "Sketch",
-          "url": "https://www.sketch.com",
-          "description": "界面设计工具",
-          "icon": "/sitelogo/www.sketch.com.ico"
-        },
-        {
-          "id": "canva",
-          "name": "Canva",
-          "url": "https://www.canva.com",
-          "description": "在线设计平台",
-          "icon": "/sitelogo/www.canva.com.ico"
-        },
-        {
-          "id": "adobe-xd",
-          "name": "Adobe XD",
-          "url": "https://www.adobe.com/products/xd.html",
-          "description": "用户体验设计工具",
-          "icon": "/sitelogo/www.adobe.com.ico"
-        }
-      ]
-    },
-    {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 7,
+      "order": 6,
       "sites": [
         {
           "id": "binance",
@@ -404,6 +368,42 @@ export const mockData = {
           "url": "https://www.futunn.com",
           "description": "港美股交易软件",
           "icon": "/sitelogo/www.futunn.com.ico"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "name": "设计工具",
+      "icon": "🎨",
+      "order": 7,
+      "sites": [
+        {
+          "id": "figma",
+          "name": "Figma",
+          "url": "https://figma.com",
+          "description": "UI设计工具",
+          "icon": "/sitelogo/figma.com.ico"
+        },
+        {
+          "id": "sketch",
+          "name": "Sketch",
+          "url": "https://www.sketch.com",
+          "description": "界面设计工具",
+          "icon": "/sitelogo/www.sketch.com.ico"
+        },
+        {
+          "id": "canva",
+          "name": "Canva",
+          "url": "https://www.canva.com",
+          "description": "在线设计平台",
+          "icon": "/sitelogo/www.canva.com.ico"
+        },
+        {
+          "id": "adobe-xd",
+          "name": "Adobe XD",
+          "url": "https://www.adobe.com/products/xd.html",
+          "description": "用户体验设计工具",
+          "icon": "/sitelogo/www.adobe.com.ico"
         }
       ]
     },
