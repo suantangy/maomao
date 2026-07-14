@@ -35,18 +35,18 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/justdanmu.irisnb.com"
         },
         {
-          "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
+          "id": "github",
+          "name": "晨曦",
+          "url": "https://dm.199333.xyz/dm",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dm.199333.xyz"
         },
         {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
+          "id": "site-1752857783656",
+          "name": "稳健",
+          "url": "https://dandan.wenjian.de/wenjian",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dandan.wenjian.de"
         }
       ]
     },
