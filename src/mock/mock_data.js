@@ -52,23 +52,23 @@ export const mockData = {
     },
     {
       "id": "ai-tools",
-      "name": "AI智能",
-      "icon": "🤖",
+      "name": "TVBOX配置接口",
+      "icon": "💡",
       "order": 1,
       "sites": [
         {
           "id": "chatgpt",
-          "name": "ChatGPT",
-          "url": "https://chat.openai.com",
-          "description": "OpenAI对话AI助手",
-          "icon": "/sitelogo/chat.openai.com.ico"
+          "name": "VOX",
+          "url": "http://rihou.cc:88/demo.php",
+          "description": "长按复制链接地址",
+          "icon": "https://www.faviconextractor.com/favicon/rihou.cc:88"
         },
         {
           "id": "claude",
-          "name": "Claude",
-          "url": "https://claude.ai",
-          "description": "Anthropic AI助手",
-          "icon": "/sitelogo/claude.ai.ico"
+          "name": "牛二",
+          "url": "http://tvbox.王二小放牛娃.top",
+          "description": "长按复制链接地址",
+          "icon": "https://www.faviconextractor.com/favicon/tvbox.xn--4kq62z5rby2qupq9ub.top"
         },
         {
           "id": "midjourney",
