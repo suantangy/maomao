@@ -536,6 +536,28 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1784038270849",
+      "icon": "🎬",
+      "name": "影视壳",
+      "order": 15,
+      "sites": [
+        {
+          "id": "site-1784038622062",
+          "name": "默影视",
+          "url": "https://github.com/Silent1566/webhtv",
+          "description": "基于鱼佬的WebHomeTV二次开发，调整了部分交互方式，支持Python和JavaScript源的TMDB海报。",
+          "icon": "https://avatars.githubusercontent.com/u/245409147?v=4"
+        },
+        {
+          "id": "site-1784039211141",
+          "name": "WebHomeTV",
+          "url": "https://github.com/fish2018/webhtv",
+          "description": "WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。",
+          "icon": "https://avatars.githubusercontent.com/u/34814105?v=4"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱",
