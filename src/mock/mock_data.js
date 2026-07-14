@@ -272,10 +272,17 @@ export const mockData = {
       "sites": [
         {
           "id": "linuxdo",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux与开源技术社区",
-          "icon": "/sitelogo/linux.do.ico"
+          "name": "玩偶监控",
+          "url": "https://pan-site-monitor.douer.me",
+          "description": "",
+          "icon": "https://pan-site-monitor.douer.me"
+        },
+        {
+          "id": "nodeseek",
+          "name": "免费域名",
+          "url": "https://www.dnshe.com",
+          "description": "",
+          "icon": "https://www.dnshe.com"
         },
         {
           "id": "stackoverflow",
@@ -283,13 +290,6 @@ export const mockData = {
           "url": "https://temporary-email.org",
           "description": "",
           "icon": "https://temporary-email.org"
-        },
-        {
-          "id": "nodeseek",
-          "name": "NodeSeek",
-          "url": "https://www.nodeseek.com",
-          "description": "极客技术社区",
-          "icon": "/sitelogo/www.nodeseek.com.ico"
         },
         {
           "id": "v2ex",
