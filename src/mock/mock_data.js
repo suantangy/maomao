@@ -61,7 +61,7 @@ export const mockData = {
           "name": "VOX",
           "url": "http://rihou.cc:88/demo.php",
           "description": "长按复制链接地址",
-          "icon": ""
+          "icon": "https://pan.szfx.top/down.php/84bed56e26deedee55b3283ecbb71a0a.jpg"
         },
         {
           "id": "claude",
