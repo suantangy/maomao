@@ -64,6 +64,13 @@ export const mockData = {
           "icon": "https://pan.szfx.top/down.php/84bed56e26deedee55b3283ecbb71a0a.jpg"
         },
         {
+          "id": "midjourney",
+          "name": "摸鱼儿",
+          "url": "http://摸鱼儿.cc",
+          "description": "长按复制链接地址",
+          "icon": "https://pan.szfx.top/down.php/b311acdbe836d271ccf755960732bc30.jpg"
+        },
+        {
           "id": "claude",
           "name": "牛二",
           "url": "https://9280.kstore.vip/newwex.json",
@@ -73,16 +80,9 @@ export const mockData = {
         {
           "id": "copilot",
           "name": "潇洒",
-          "url": "https://9877.kstore.space/ONE/one.json",
+          "url": "https://cnb.cool/fish2018/xs/-/git/raw/main/api.json",
           "description": "长按复制链接地址",
-          "icon": "https://9877.kstore.space/ONE/one.json"
-        },
-        {
-          "id": "midjourney",
-          "name": "摸鱼儿",
-          "url": "http://摸鱼儿.cc",
-          "description": "长按复制链接地址",
-          "icon": "https://pan.szfx.top/down.php/b311acdbe836d271ccf755960732bc30.jpg"
+          "icon": "https://www.faviconextractor.com/favicon/cnb.cool"
         },
         {
           "id": "cursor",
