@@ -2,8 +2,8 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "弹幕库",
-      "icon": "🍭",
+      "name": "要去的组词",
+      "icon": "🎮",
       "order": 0,
       "sites": [
         {
@@ -515,13 +515,6 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
-    },
-    {
-      "id": "category-1784017888324",
-      "icon": "🍭",
-      "name": "弹幕库",
-      "order": 0,
-      "sites": []
     }
   ],
   "title": "猫猫导航🐱",
