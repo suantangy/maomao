@@ -71,18 +71,18 @@ export const mockData = {
           "icon": "https://pan.szfx.top/down.php/6bb5d977b5d5b7c901e1ca5000885665.jpg"
         },
         {
-          "id": "midjourney",
-          "name": "摸鱼儿",
-          "url": "http://摸鱼儿.cc",
-          "description": "长按复制链接地址",
-          "icon": "https://pan.szfx.top/down.php/b311acdbe836d271ccf755960732bc30.jpg"
-        },
-        {
           "id": "copilot",
           "name": "潇洒",
           "url": "https://9877.kstore.space/ONE/one.json",
           "description": "长按复制链接地址",
           "icon": "https://9877.kstore.space/ONE/one.json"
+        },
+        {
+          "id": "midjourney",
+          "name": "摸鱼儿",
+          "url": "http://摸鱼儿.cc",
+          "description": "长按复制链接地址",
+          "icon": "https://pan.szfx.top/down.php/b311acdbe836d271ccf755960732bc30.jpg"
         },
         {
           "id": "cursor",
@@ -104,6 +104,13 @@ export const mockData = {
           "url": "https://16151.kstore.space",
           "description": "长按复制链接地址",
           "icon": "https://pan.szfx.top/down.php/9e5b2bf700b002336e21385ce6e8e7dc.jpg"
+        },
+        {
+          "id": "site-1784025353045",
+          "name": "PG",
+          "url": "https://www.252035.xyz/p/jsm.json",
+          "description": "长按复制链接地址",
+          "icon": "https://pan.szfx.top/down.php/f8b16f5e9d28833fa1e4c2912ed84a65.jpg"
         }
       ]
     },
